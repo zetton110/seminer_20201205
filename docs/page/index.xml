@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on 2020/12/05(土) セミナー補足資料</title>
-    <link>https://zetton110.github.io/blog/page/</link>
+    <link>https://zetton110.github.io/seminer_20201205/page/</link>
     <description>Recent content in Pages on 2020/12/05(土) セミナー補足資料</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Thu, 05 May 2016 21:48:51 -0700</lastBuildDate>
     
-	<atom:link href="https://zetton110.github.io/blog/page/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://zetton110.github.io/seminer_20201205/page/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>https://zetton110.github.io/blog/about/</link>
+      <link>https://zetton110.github.io/seminer_20201205/about/</link>
       <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
       
-      <guid>https://zetton110.github.io/blog/about/</guid>
+      <guid>https://zetton110.github.io/seminer_20201205/about/</guid>
       <description> セミナー資料置き場。
 ３度の飯より、プログラミング。
   伊藤 浩平  30 さい ITエンジニア 島根県出雲市出身 元メーカー系SIier（現在：工場務め） Uターン組 スキル：Javascript / Java / Ruby / Elixir / C# / VBA / VB.Net 新米パパ  </description>
