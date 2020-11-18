@@ -7,6 +7,9 @@ title = "About"
 
 ３度の飯より、プログラミング。
 
+# 本セミナーについて
+ - [セミナー概要 PDF](/files/overview.pdf)
+
 # {{< figure src="/images/me.JPG" width="150" height="150" >}}　伊藤 浩平
 
  - 30 さい
