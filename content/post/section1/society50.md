@@ -10,5 +10,4 @@ draft: false
 
 # 解説記事など 
  - [【初心者向け】Society 5.0を徹底解説！定義・技術・事例まで](https://www.softbank.jp/biz/future_stride/entry/technology/20200706/)
-
  - [「Society 5.0」とは？私達の暮らしや仕事はどう変わるのか？](https://www.mdsol.co.jp/column/column_123_1286.html)
