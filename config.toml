@@ -1,4 +1,4 @@
-baseurl = "https://zetton110.github.io/blog/"
+baseurl = "https://zetton110.github.io/seminer_20201205/"
 canonifyurls = true
 publishDir = "docs"
 languageCode = "ja"
