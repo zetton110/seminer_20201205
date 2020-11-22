@@ -34,3 +34,4 @@ disqusShortname = ""
 
 [taxonomies]
 tag = "tags"
+categories = "categories"

@@ -1,7 +1,7 @@
 {{ partial "header.html" . }}
 
 <main class="content" role="main">
-  <h2>20/12/05（土） <br>”プログラミング教育”セミナー_　補足資料</h2>
+  <h2>20/12/05（土） <br>”プログラミング教育”セミナー補足資料</h2>
   <div class="archive">
     {{ range (where .Data.Pages "Type" "post").GroupByDate "2006" }}
     {{ range .Pages }}
