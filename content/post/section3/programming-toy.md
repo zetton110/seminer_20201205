@@ -1,5 +1,5 @@
 ---
-title: "Programming Toy"
+title: "触って学ぶ！おもちゃ・工作系プログラミング教材"
 date: 2020-11-23T14:19:28+09:00
 draft: false
 ---
