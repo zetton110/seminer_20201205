@@ -23,6 +23,10 @@ Scratchでカスタマイズできる機能を持ったプログラミングお�
   つい最近（2020/11/18）、最新バージョンのScratchに対応した授業がアップされたので活用しない手はない！  
 
 - - -
+## Scrach Jr （スクラッチジュニア）
+{{< figure src="/images/ScratchJr.jpg" height="300" >}}
+
+- - -
 ## Viscuit （ビスケット）
 {{< figure src="/images/viscuit.jpg" height="300" >}}
 使い方がとても簡単／直感的で、  
@@ -124,3 +128,12 @@ Scratchのようにブロックを繋げてプログラミングをする。
 
   （公式サイト）  
   https://proguru.jp/
+
+## Code Combat
+{{< figure src="/images/CodeCombat.png" height="300" >}}
+Python、Javascriptなど言語を選んでコードを入力しながら冒険を進めるRPG。
+
+## マインクラフトプログラミング
+{{< figure src="/images/mincraft-programming.png" height="300" >}}
+小学生に人気のマイクラ（MINECRAFT）を教材にプログラミングが学習できるサイト。
+

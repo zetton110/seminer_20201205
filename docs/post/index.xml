@@ -6,10 +6,22 @@
     <description>Recent content in Posts on 2020/12/05(土) セミナー補足資料</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 21 Nov 2020 15:58:57 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2020 14:19:28 +0900</lastBuildDate>
     
 	<atom:link href="https://zetton110.github.io/seminer_20201205/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Programming Toy</title>
+      <link>https://zetton110.github.io/seminer_20201205/post/programming-toy/</link>
+      <pubDate>Mon, 23 Nov 2020 14:19:28 +0900</pubDate>
+      
+      <guid>https://zetton110.github.io/seminer_20201205/post/programming-toy/</guid>
+      <description> toio （トイオ）   教育用プログラミング言語の超王道。
+（公式サイト）
+https://scratch.mit.edu/
+キュベット   コード・A ・ピラー ツイスト   COZMO（コズモ）   Sphero（スフィロ）   カードでピピッと　はじめてのプログラミングカー   Embot（エムボット）   Studuino Liteであそぼう！はじめてのプログラミング工作   マイクロビット アドバンスセット MB-B001   </description>
+    </item>
     
     <item>
       <title>ビジュアルプログラミング教材</title>
@@ -27,7 +39,7 @@ https://scratch.mit.edu/
 超有名なプログラミング学習サイト。
 1本の動画が約3分で完結にまとめられており、スキマ時間で学習できる。
 つい最近（2020/11/18）、最新バージョンのScratchに対応した授業がアップされたので活用しない手はない！
-  Viscuit （ビスケット）   使い方がとても簡単／直感的で、
+  Scrach Jr （スクラッチジュニア）   Viscuit （ビスケット）   使い方がとても簡単／直感的で、
 自分のえがいた絵でプログラムを作れて、その絵に動きをつけられる。
 難易度が低く、幼稚園児でも扱える（らしい）。
 パソコン／タブレット／スマホで利用可能。
