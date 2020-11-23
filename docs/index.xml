@@ -6,40 +6,71 @@
     <description>Recent content on 2020/12/05(土) セミナー補足資料</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 23 Nov 2020 14:19:28 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2020 16:23:47 +0900</lastBuildDate>
     
 	<atom:link href="https://zetton110.github.io/seminer_20201205/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Programming Toy</title>
-      <link>https://zetton110.github.io/seminer_20201205/post/programming-toy/</link>
-      <pubDate>Mon, 23 Nov 2020 14:19:28 +0900</pubDate>
+      <title>最近の子はこういうのもあり？ゲーム要素強め系プログラミング教材</title>
+      <link>https://zetton110.github.io/seminer_20201205/post/%E6%9C%80%E8%BF%91%E3%81%AE%E5%AD%90%E3%81%AF%E3%81%93%E3%81%86%E3%81%84%E3%81%86%E3%81%AE%E3%82%82%E3%81%82%E3%82%8A%E3%82%B2%E3%83%BC%E3%83%A0%E8%A6%81%E7%B4%A0%E5%BC%B7%E3%82%81%E7%B3%BB%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E6%95%99%E6%9D%90/</link>
+      <pubDate>Mon, 23 Nov 2020 16:23:47 +0900</pubDate>
       
-      <guid>https://zetton110.github.io/seminer_20201205/post/programming-toy/</guid>
-      <description> toio （トイオ）   教育用プログラミング言語の超王道。
+      <guid>https://zetton110.github.io/seminer_20201205/post/%E6%9C%80%E8%BF%91%E3%81%AE%E5%AD%90%E3%81%AF%E3%81%93%E3%81%86%E3%81%84%E3%81%86%E3%81%AE%E3%82%82%E3%81%82%E3%82%8A%E3%82%B2%E3%83%BC%E3%83%A0%E8%A6%81%E7%B4%A0%E5%BC%B7%E3%82%81%E7%B3%BB%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E6%95%99%E6%9D%90/</guid>
+      <description>HackforPlay   基本的には2DのRPGゲーム進めていくのだが、このゲームには意図的にバグが仕込まれている。そのバグをプレイヤーがプログラミングで書き換えて直していくことで次にすすめるようになる、という一風変わったゲーム。プレイヤーは「ゲームの世界」と「ゲームを作っているプログラムの世界」の両方を攻略する必要がある。
+オリジナルのステージを作る機能があり、より本格的にプログラミングをすすめることもできる。
+プログラミング教材としては変化球だが、プログラミングに興味を持つきっかけには良さそう。
 （公式サイト）
-https://scratch.mit.edu/
-キュベット   コード・A ・ピラー ツイスト   COZMO（コズモ）   Sphero（スフィロ）   カードでピピッと　はじめてのプログラミングカー   Embot（エムボット）   Studuino Liteであそぼう！はじめてのプログラミング工作   マイクロビット アドバンスセット MB-B001   </description>
+https://hackforplay-company.weebly.com/hackforplay12387123902030965311.html
+（公式動画チャンネル）
+https://www.youtube.com/watch?v=8qYA33Jg7OU
+MOONBlock   ブロックを繋げてゲームをつくることができる。 簡単に自作のゲームを作ることができる。 ゲーム好きな子供におすすめ。
+（公式サイト）
+https://moonblock.jp/
+（公式動画チャンネル）
+https://www.youtube.com/channel/UCQaLZdhzGonsPVmjEeW72xQ
+（参考記事）  MOONBlockでゲームプログラミング MOONBlockは子どものプログラミングにオススメ｜使い方やゲームの作り方、オススメ本をご紹介 「MOONBlock（ムーンブロック）」をやってみた【体験レポート】  （参考動画）  【ちちんぷいぷいプログラミング】#2：ゲーム「フルーツ狩り」を作ってみる！？ 【ちちんぷいぷいプログラミング】#3：シューティングゲームを作ってみるぞ！？ MOONBlockでシューティングゲームを作ろう  QUREO（キュレオ）   サイバーエージェントが提供する、小学生向けオンライン学習サービス。 ファンタジー世界で冒険するという世界観の中でプログラミングをすすめる。 Scratchのようにブロックを繋げてプログラミングをする。 ところどころアニメや漫画のカットが流れて子供たちが興味をひきやすい工夫がされている。
+（公式サイト）
+https://qureo.jp/
+（公式動画チャンネル）
+https://www.youtube.com/channel/UCd8votrQ5iue7-XofQjcfc
+（参考記事）  QUREOっていう子供向けプログラミング学習サービスがめっちゃ良い！  Code Combat   Python、Javascriptなど言語を選んでコードを入力しながら冒険を進めるRPG。
+マインクラフトプログラミング   小学生に人気のマイクラ（MINECRAFT）を教材にプログラミングが学習できるサイト。</description>
     </item>
     
     <item>
-      <title>ビジュアルプログラミング教材</title>
-      <link>https://zetton110.github.io/seminer_20201205/post/%E3%83%93%E3%82%B8%E3%83%A5%E3%82%A2%E3%83%AB%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E6%95%99%E6%9D%90/</link>
+      <title>触って学ぶ！おもちゃ・工作系プログラミング教材</title>
+      <link>https://zetton110.github.io/seminer_20201205/post/%E8%A7%A6%E3%81%A3%E3%81%A6%E5%AD%A6%E3%81%B6%E3%81%8A%E3%82%82%E3%81%A1%E3%82%83%E5%B7%A5%E4%BD%9C%E7%B3%BB%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E6%95%99%E6%9D%90/</link>
+      <pubDate>Mon, 23 Nov 2020 14:19:28 +0900</pubDate>
+      
+      <guid>https://zetton110.github.io/seminer_20201205/post/%E8%A7%A6%E3%81%A3%E3%81%A6%E5%AD%A6%E3%81%B6%E3%81%8A%E3%82%82%E3%81%A1%E3%82%83%E5%B7%A5%E4%BD%9C%E7%B3%BB%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E6%95%99%E6%9D%90/</guid>
+      <description> toio （トイオ）   伊藤が強くおすすめしたいプログラミングトイ。 子どもたちは遊びながらキューブ型のロボットにプログラミングで指示を出し色んな課題をクリアしていく。 toio本体とタイトルが別売りしており、タイトルを変えることで同じプラットフォームで色んな遊び方ができる。 EX)リズムゲーム、絵本、カーレーシング、相撲、ボードゲーム…
+また、プログラミングは物理的なカードを繋げて実施することもできるし、 パソコンを使って画面上のブロックを繋げて指示を出すこともできるので 子供の発達レベルに合わせプログラミングの形式を選択できる。
+対戦要素もあり、子供同士はもちろん、家族みんなで楽しめるコンテンツ。
+（公式サイト）
+https://toio.io/?utm_source=google&amp;amp;utm_medium=cpc&amp;amp;utm_campaign=S-shimei
+（公式動画チャンネル）
+https://www.youtube.com/channel/UCht-vdeFWgdFuDoQHIWmuZA
+参考記事  Viscuit（ビスケット）の使い方と簡単ゲームの作り方｜子どもでも分かるプログラミングアプリ 次世代ロボットトイ「toio（トイオ）」、2020年以降に発売される新タイトルを先行体験レポート！遊びと学びに満ちた新感覚のハイテクおもちゃ  参考動画  【激レア】このメンバーで遊びまくる / カジサック KAJISAC  toio™ 新タイトル　2019年秋　紹介動画｜toio™ New Titles 2019 Fall Trailer さあtoio™をはじめよう！：商品説明動画 ソニーのロボットトイ「toio」が楽しすぎる件 / STARTT.jp toio™ 「GoGo ロボットプログラミング　~ロジーボのひみつ~」紹介動画（バリューパック） toio™ 「トイオ・ドライブ」紹介動画 toio™ 「大魔王の美術館と怪盗団」ティザー動画  キュベット   イギリス発の木製ロボットで、幼児～小学生が対象。
+参考記事  プログラミング教育が学べるおもちゃ”キュベット”で遊んでみた！！ プログラミング脳を3歳から知育玩具　プリモトイズ キュベット  コード・A ・ピラー ツイスト   COZMO（コズモ）   Sphero（スフィロ）   カードでピピッと　はじめてのプログラミングカー   Embot（エムボット）   Studuino Liteであそぼう！はじめてのプログラミング工作   マイクロビット アドバンスセット MB-B001   </description>
+    </item>
+    
+    <item>
+      <title>プログラミング学習時に便利なWebサイト</title>
+      <link>https://zetton110.github.io/seminer_20201205/post/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E5%AD%A6%E7%BF%92%E6%99%82%E3%81%AB%E4%BE%BF%E5%88%A9%E3%81%AAweb%E3%82%B5%E3%82%A4%E3%83%88/</link>
       <pubDate>Sat, 21 Nov 2020 15:58:57 +0900</pubDate>
       
-      <guid>https://zetton110.github.io/seminer_20201205/post/%E3%83%93%E3%82%B8%E3%83%A5%E3%82%A2%E3%83%AB%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E6%95%99%E6%9D%90/</guid>
-      <description>Scratch （スクラッチ）   教育用プログラミング言語の超王道。
-子供向けプログラミング教育の現場でもっとも採用されているので、迷ったらこれをやっておけば間違いない。
-対象年齢は8〜16歳だが、年齢関係なくプログラミング初心者全員におすすめ。
-Scratchでカスタマイズできる機能を持ったプログラミングおもちゃも多いので、一度身につけると遊びの幅も広がる。
-（公式サイト）
-https://scratch.mit.edu/
-参考記事  Scratchとは | プログラミングも学べるSTEM教育スクール  ★オススメ学びサイト  ドットインストール「Scratch 3.0 入門」
-超有名なプログラミング学習サイト。
-1本の動画が約3分で完結にまとめられており、スキマ時間で学習できる。
-つい最近（2020/11/18）、最新バージョンのScratchに対応した授業がアップされたので活用しない手はない！
-  Scrach Jr （スクラッチジュニア）   Viscuit （ビスケット）   使い方がとても簡単／直感的で、
+      <guid>https://zetton110.github.io/seminer_20201205/post/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E5%AD%A6%E7%BF%92%E6%99%82%E3%81%AB%E4%BE%BF%E5%88%A9%E3%81%AAweb%E3%82%B5%E3%82%A4%E3%83%88/</guid>
+      <description> ドットインストール   知りたい！プログラミングツール図鑑   Udemy （ユーデミー）   Why!?プログラミング   </description>
+    </item>
+    
+    <item>
+      <title>未就学児もできる？難易度低めのプログラミング教材</title>
+      <link>https://zetton110.github.io/seminer_20201205/post/%E6%9C%AA%E5%B0%B1%E5%AD%A6%E5%85%90%E3%82%82%E3%81%A7%E3%81%8D%E3%82%8B%E9%9B%A3%E6%98%93%E5%BA%A6%E4%BD%8E%E3%82%81%E3%81%AE%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E6%95%99%E6%9D%90/</link>
+      <pubDate>Sat, 21 Nov 2020 15:58:57 +0900</pubDate>
+      
+      <guid>https://zetton110.github.io/seminer_20201205/post/%E6%9C%AA%E5%B0%B1%E5%AD%A6%E5%85%90%E3%82%82%E3%81%A7%E3%81%8D%E3%82%8B%E9%9B%A3%E6%98%93%E5%BA%A6%E4%BD%8E%E3%82%81%E3%81%AE%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E6%95%99%E6%9D%90/</guid>
+      <description> Viscuit （ビスケット）   使い方がとても簡単／直感的で、
 自分のえがいた絵でプログラムを作れて、その絵に動きをつけられる。
 難易度が低く、幼稚園児でも扱える（らしい）。
 パソコン／タブレット／スマホで利用可能。
@@ -47,23 +78,7 @@ https://scratch.mit.edu/
 https://www7.viscuit.com/
 （公式動画チャンネル）
 https://www.youtube.com/channel/UCd8votrQ5iue7-XofQjcfc
-参考記事  Viscuit（ビスケット）の使い方と簡単ゲームの作り方｜子どもでも分かるプログラミングアプリ ビスケットをはじめよう  参考動画  うごく絵本をつくろう ビスケットの使い方　基本編　みんなでつくるモード ビスケットの使い方　応用編　1人でつくるモード  HackforPlay   基本的には2DのRPGゲーム進めていくのだが、このゲームには意図的にバグが仕込まれている。そのバグをプレイヤーがプログラミングで書き換えて直していくことで次にすすめるようになる、という一風変わったゲーム。プレイヤーは「ゲームの世界」と「ゲームを作っているプログラムの世界」の両方を攻略する必要がある。
-オリジナルのステージを作る機能があり、より本格的にプログラミングをすすめることもできる。
-プログラミング教材としては変化球だが、プログラミングに興味を持つきっかけには良さそう。
-（公式サイト）
-https://hackforplay-company.weebly.com/hackforplay12387123902030965311.html
-（公式動画チャンネル）
-https://www.youtube.com/watch?v=8qYA33Jg7OU
-プログラミングゼミ   Scratchをよりライトに学べるしたようなサービス。 ブロックを繋げるとかわいいキャラクターがそれに従い動く。 低学年でも抵抗なく使えるようインターフェースがひらがな中心で、タブレット用とパソコン用の両方がある。 アプリの中でキャラクターを手書きしたり、音声を取り込めたりカスタマイズも可能。</description>
-    </item>
-    
-    <item>
-      <title>プログラミング学習サイト</title>
-      <link>https://zetton110.github.io/seminer_20201205/post/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E5%AD%A6%E7%BF%92%E3%82%B5%E3%82%A4%E3%83%88/</link>
-      <pubDate>Sat, 21 Nov 2020 15:58:57 +0900</pubDate>
-      
-      <guid>https://zetton110.github.io/seminer_20201205/post/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E5%AD%A6%E7%BF%92%E3%82%B5%E3%82%A4%E3%83%88/</guid>
-      <description> ドットインストール </description>
+参考記事  Viscuit（ビスケット）の使い方と簡単ゲームの作り方｜子どもでも分かるプログラミングアプリ ビスケットをはじめよう  参考動画  うごく絵本をつくろう ビスケットの使い方　基本編　みんなでつくるモード ビスケットの使い方　応用編　1人でつくるモード  Scrach Jr （スクラッチジュニア）   </description>
     </item>
     
     <item>
