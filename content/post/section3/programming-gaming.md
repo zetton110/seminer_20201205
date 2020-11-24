@@ -10,6 +10,9 @@ draft: false
  オリジナルのステージを作る機能があり、より本格的にプログラミングをすすめることもできる。  
  プログラミング教材としては変化球だが、プログラミングに興味を持つきっかけには良さそう。  
 
+- 対象年齢：小学３年生〜
+- 実行端末：Windows/Mac パソコン
+  
   （公式サイト）  
   https://hackforplay-company.weebly.com/hackforplay12387123902030965311.html
 
@@ -23,6 +26,9 @@ draft: false
 簡単に自作のゲームを作ることができる。
 ゲーム好きな子供におすすめ。
 
+- 対象年齢：小学生〜
+- 実行端末：Windows/Mac パソコン
+  
   （公式サイト）  
   https://moonblock.jp/
 
@@ -48,6 +54,9 @@ draft: false
 Scratchのようにブロックを繋げてプログラミングをする。
 ところどころアニメや漫画のカットが流れて子供たちが興味をひきやすい工夫がされている。
 
+- 対象年齢：小学2年生〜
+- 実行端末：Windows/Mac パソコン
+  
   （公式サイト）  
   https://qureo.jp/
 
@@ -61,6 +70,15 @@ Scratchのようにブロックを繋げてプログラミングをする。
 {{< figure src="/images/CodeCombat.png" height="300" >}}
 Python、Javascriptなど言語を選んでコードを入力しながら冒険を進めるRPG。
 
+- 対象年齢：小学校中学年〜
+- 実行端末：Windows/Mac パソコン
+  
+- - -
+
 ## マインクラフトプログラミング
 {{< figure src="/images/mincraft-programming.png" height="300" >}}
 小学生に人気のマイクラ（MINECRAFT）を教材にプログラミングが学習できるサイト。
+
+- 対象年齢：小学生〜
+- 実行端末：Windows/Mac パソコン
+  

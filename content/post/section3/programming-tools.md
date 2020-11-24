@@ -27,3 +27,10 @@ draft: true
  ご家庭や学校教育向けに、プログラミング教育に関する役立つトピックを発信するサイト。
 
 （URL） https://ict-toolbox.com/
+
+## みんなのコード
+{{< figure src="/images/minna-no-code.png" height="300" >}}
+「全ての子どもがプログラミングを楽しむ国にする」を掲げたNPO団体のホームページ。
+プログラミング教育に関する情報発信サイト。
+
+(URL) https://code.or.jp/
