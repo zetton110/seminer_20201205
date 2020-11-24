@@ -6,10 +6,12 @@ draft: true
 ## Scratch （スクラッチ）
 {{< figure src="/images/scratch.png" height="300" >}}
 教育用プログラミング言語の超王道。  
-子供向けプログラミング教育の現場でもっとも採用されているので、迷ったらこれをやっておけば間違いない。  
-対象年齢は8〜16歳だが、年齢関係なくプログラミング初心者全員におすすめ。  
+子供向けプログラミング教育の元祖的な存在。現場でもっとも採用されているので、迷ったらこれをやっておけば間違いない。  
 Scratchでカスタマイズできる機能を持ったプログラミングおもちゃも多いので、一度身につけると遊びの幅も広がる。    
 
+- 対象年齢：8歳〜  
+- 実行端末：Windows/Mac パソコン、iOS/Android タブレット・スマホ
+  
  （公式サイト）  
   https://scratch.mit.edu/
 
@@ -30,6 +32,9 @@ Scratchをよりライトに学べるしたようなサービス。
 低学年でも抵抗なく使えるようインターフェースがひらがな中心で、タブレット用とパソコン用の両方がある。
 アプリの中でキャラクターを手書きしたり、音声を取り込めたりカスタマイズも可能。
 
+- 対象年齢：6歳〜  
+- 実行端末：Windows/Mac パソコン、iOS/Android タブレット・スマホ
+
   （公式サイト）  
   https://programmingzemi.com/
 
@@ -40,10 +45,21 @@ Scratchをよりライトに学べるしたようなサービス。
 
 ## LINE entry
 {{< figure src="/images/line-entry.jpg" height="300" >}}
+LINEの馴染みあるキャラクターを使ってScratchのようにプログラミングをすすめることができる。
+ゲーム形式でプログラミングができる機能があったり、
+つくった作品を簡単に共有したりマイページに保存したりできる機能がある。
+"子供帯は楽しく、先生たちは使いやすく"がモットー。
 
   （公式サイト）  
   https://entry.line.me/
 
+### 参考記事
+- [「LINE entry」の入門コンテンツ“ミッション”はゲーム感覚でキャラクターの動きをプログラミングできる](https://forest.watch.impress.co.jp/docs/serial/progedu/1258209.html)
+- [「LINE entry」を使ってプログラミングをレクチャー！第2弾](https://www.youtube.com/watch?v=LMS1slWcuz8)
+
+### 参考動画
+- [「LINE entry」を使ってプログラミングをレクチャー！第1弾](https://www.youtube.com/watch?v=psWPN5Ql2QU)
+- [「LINE entry」を使ってプログラミングをレクチャー！第1弾](https://www.youtube.com/watch?v=psWPN5Ql2QU)
 - - -
 
 ## 授業で使えるプログラミング教材　プログル
