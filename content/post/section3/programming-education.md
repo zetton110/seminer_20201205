@@ -1,7 +1,7 @@
 ---
 title: "学校教育でも使える!王道系プログラミング教材"
 date: 2020-11-23T16:16:31+09:00
-draft: true
+draft: false
 ---
 ## Scratch （スクラッチ）
 {{< figure src="/images/scratch.png" height="300" >}}
