@@ -1,6 +1,6 @@
 ---
-title: "SDGs"
-date: 2020-11-26T21:50:14+09:00
+title: "SDGsについて"
+date: 2020-12-04T21:50:14+09:00
 draft: false
 ---
 {{< figure src="/images/SDGs.jpg" height="300" >}}

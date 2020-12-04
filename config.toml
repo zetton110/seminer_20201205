@@ -2,7 +2,7 @@ baseurl = "https://zetton110.github.io/seminer_20201205/"
 canonifyurls = true
 publishDir = "docs"
 languageCode = "ja"
-title = "2020/12/05(土) セミナー補足資料"
+title = "2020/12/05(土) セミナー資料置き場"
 theme = "hugo-lithium-theme"
 googleAnalytics = ""
 disqusShortname = ""
@@ -11,10 +11,13 @@ disqusShortname = ""
     page = "/:title/"
 
 [[menu.main]]
-    name = "About"
+    name = "補足資料"
+    url = "/"
+[[menu.main]]
+    name = "講義内容"
     url = "/about/"
 [[menu.main]]
-    name = "Mail"
+    name = "質問・感想"
     url = "https://docs.google.com/forms/d/e/1FAIpQLSexaqxkfxJMBnNV1elMQsJklw5TKJCMw5LNGggQQjpQElocPA/viewform"
 
 [params]

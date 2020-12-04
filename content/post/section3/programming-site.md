@@ -1,5 +1,5 @@
 ---
-title: "プログラミング学習時に便利なWebサイト"
+title: "【伊藤おすすめ】プログラミング学習時に便利なWebサイト"
 date: 2020-11-21T15:58:57+09:00
 draft: false
 ---
@@ -51,5 +51,7 @@ URL：https://www.udemy.com/course/scratch-basic/
 - - -
 ## Why!?プログラミング
 {{< figure src="/images/why-programming.png" height="300" >}}
-URL：https://www.nhk.or.jp/school/sougou/programming/
 
+2016年3月からNHK Eテレで放送されている、小学生〜中学生向けのプログラミング講座（10分）。お笑い芸人：厚切ジェイソンと愉快な仲間たちがScratchを使って面白おかしく問題解決していく番組。バラエティ要素が全面に出ているが、内容はきっちりしっかりしており、肩の力を抜きつつ学習できる良教材。国際評価も高く、2017年の国際エミー賞にノミネートされた。
+
+URL：http://www.nhk.or.jp/sougou/programming/
