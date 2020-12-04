@@ -1,31 +1,71 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>2020/12/05(土) セミナー補足資料</title>
+    <title>2020/12/05(土) セミナー資料置き場</title>
     <link>https://zetton110.github.io/seminer_20201205/</link>
-    <description>Recent content on 2020/12/05(土) セミナー補足資料</description>
+    <description>Recent content on 2020/12/05(土) セミナー資料置き場</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 26 Nov 2020 21:50:14 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 04 Dec 2020 21:50:14 +0900</lastBuildDate>
     
 	<atom:link href="https://zetton110.github.io/seminer_20201205/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>SDGs</title>
-      <link>https://zetton110.github.io/seminer_20201205/post/sdgs/</link>
-      <pubDate>Thu, 26 Nov 2020 21:50:14 +0900</pubDate>
+      <title>SDGsについて</title>
+      <link>https://zetton110.github.io/seminer_20201205/post/sdgs%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/</link>
+      <pubDate>Fri, 04 Dec 2020 21:50:14 +0900</pubDate>
       
-      <guid>https://zetton110.github.io/seminer_20201205/post/sdgs/</guid>
+      <guid>https://zetton110.github.io/seminer_20201205/post/sdgs%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/</guid>
       <description>   公式情報  SDGs（エス・ディー・ジーズ）とは？　17の目標ごとの説明、事実と数字  解説記事など  SDGs（持続可能な開発目標）とは何か？17の目標をわかりやすく解説｜日本の取り組み事例あり 【SDGsとは】中学生にもわかりやすくまとめたよ Society 5.0の実現を通じたSDGsの達成に総力を挙げて取り組む  </description>
     </item>
     
     <item>
-      <title>プログラミング教材探しに便利なサイト</title>
-      <link>https://zetton110.github.io/seminer_20201205/post/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E6%95%99%E6%9D%90%E6%8E%A2%E3%81%97%E3%81%AB%E4%BE%BF%E5%88%A9%E3%81%AA%E3%82%B5%E3%82%A4%E3%83%88/</link>
+      <title>Society 5.0について</title>
+      <link>https://zetton110.github.io/seminer_20201205/post/society-5.0%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/</link>
+      <pubDate>Thu, 03 Dec 2020 00:51:18 +0900</pubDate>
+      
+      <guid>https://zetton110.github.io/seminer_20201205/post/society-5.0%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/</guid>
+      <description>   公式情報  【内閣府公式】 Society 5.0 【経団連公式Youtube】「20XX in Society 5.0～デジタルで創る、私たちの未来～」  解説記事など  【初心者向け】Society 5.0を徹底解説！定義・技術・事例まで 「Society 5.0」とは？私達の暮らしや仕事はどう変わるのか？ Society 5.0の実現を通じたSDGsの達成に総力を挙げて取り組む KeidanrenSDGs  </description>
+    </item>
+    
+    <item>
+      <title>【伊藤おすすめ】触って学ぶ！おもちゃ・工作系教材</title>
+      <link>https://zetton110.github.io/seminer_20201205/post/%E4%BC%8A%E8%97%A4%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%E8%A7%A6%E3%81%A3%E3%81%A6%E5%AD%A6%E3%81%B6%E3%81%8A%E3%82%82%E3%81%A1%E3%82%83%E5%B7%A5%E4%BD%9C%E7%B3%BB%E6%95%99%E6%9D%90/</link>
+      <pubDate>Wed, 02 Dec 2020 14:19:28 +0900</pubDate>
+      
+      <guid>https://zetton110.github.io/seminer_20201205/post/%E4%BC%8A%E8%97%A4%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%E8%A7%A6%E3%81%A3%E3%81%A6%E5%AD%A6%E3%81%B6%E3%81%8A%E3%82%82%E3%81%A1%E3%82%83%E5%B7%A5%E4%BD%9C%E7%B3%BB%E6%95%99%E6%9D%90/</guid>
+      <description>toio （トイオ）   伊藤が強くおすすめしたいプログラミングトイ。 子どもたちは遊びながらキューブ型のロボットにプログラミングで指示を出し色んな課題をクリアしていく。 toio本体とタイトルが別売りしており、タイトルを変えることで同じプラットフォームで色んな遊び方ができる。 EX)リズムゲーム、絵本、カーレーシング、相撲、ボードゲーム…
+また、プログラミングは物理的なカードを繋げて実施することもできるし、 パソコンを使って画面上のブロックを繋げて指示を出すこともできるので 子供の発達レベルに合わせプログラミングの形式を選択できる。
+対戦要素もあり、子供同士はもちろん、家族みんなで楽しめるコンテンツ。
+（公式サイト）
+https://toio.io/?utm_source=google&amp;amp;utm_medium=cpc&amp;amp;utm_campaign=S-shimei
+（公式動画チャンネル）
+https://www.youtube.com/channel/UCht-vdeFWgdFuDoQHIWmuZA
+参考記事  Viscuit（ビスケット）の使い方と簡単ゲームの作り方｜子どもでも分かるプログラミングアプリ 次世代ロボットトイ「toio（トイオ）」、2020年以降に発売される新タイトルを先行体験レポート！遊びと学びに満ちた新感覚のハイテクおもちゃ  参考動画  【激レア】このメンバーで遊びまくる / カジサック KAJISAC  toio™ 新タイトル　2019年秋　紹介動画｜toio™ New Titles 2019 Fall Trailer さあtoio™をはじめよう！：商品説明動画 ソニーのロボットトイ「toio」が楽しすぎる件 / STARTT.jp toio™ 「GoGo ロボットプログラミング　~ロジーボのひみつ~」紹介動画（バリューパック） toio™ 「トイオ・ドライブ」紹介動画 toio™ 「大魔王の美術館と怪盗団」ティザー動画  キュベット   イギリス発の木製ロボット（キュベット）で、幼児～小学生が対象。木製のブロックにコマンドが組み込まれており、木製ボードにブロックをはめ込むとキュベットがその指示に従って動いてくれる。木製なので安心・安全で、３歳から遊べるとのこと。やたらおしゃれなのでインテリアにもなる。けど、なかなかお値段がはる。
+（公式サイト）
+https://www.primotoys.jp/
+ 対象年齢：３歳〜小学生まで  参考記事  プログラミング教育が学べるおもちゃ”キュベット”で遊んでみた！！ プログラミング脳を3歳から知育玩具　プリモトイズ キュベット  コード・A ・ピラー ツイスト   見た目が奇妙なイモムシ型のプログラミングトイ。イモムシの５つの胴体にコマンドを割り当てることができ、コマンドに従ってイモムシが動く、というもの。動きの組み合わせはなんと1,000通り以上。コマンドの切り替えはダイヤルをまわしておこなうので小さな子どもでも扱うことができる。コマンドは全8種で「前進」「右折」「左折」「音楽」「しゃべる」「動物のまね」「食べる」「眠る」があり、そのうちの4つが割り当てられている。</description>
+    </item>
+    
+    <item>
+      <title>【伊藤おすすめ】プログラミング通信教育</title>
+      <link>https://zetton110.github.io/seminer_20201205/post/%E4%BC%8A%E8%97%A4%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E9%80%9A%E4%BF%A1%E6%95%99%E8%82%B2/</link>
+      <pubDate>Wed, 02 Dec 2020 01:03:45 +0900</pubDate>
+      
+      <guid>https://zetton110.github.io/seminer_20201205/post/%E4%BC%8A%E8%97%A4%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E9%80%9A%E4%BF%A1%E6%95%99%E8%82%B2/</guid>
+      <description> Z会プログラミング講座with Lego   イード・アワード2019プログラミング教室の部にて総合満足度 最優秀賞を受賞。世界90カ国以上で使用されている「レゴ エデュケーション」の教材をベースに、自宅で日常的にプログラミングに取り組めるよう、Ｚ会によるオリジナルの学習指導要素を組み合わせて通信教育講座の形にしたもの。みんな大好きLEGOを題材にロボット✕プログラミングを楽しみながら身につけられる。保護者が子供をサポートできるよう「保護者用ガイド」も同梱されており、非常に手厚い。
+ 対象年齢：小学３年生〜 実行端末：Windows/Mac パソコン   （公式サイト）
+https://www.zkai.co.jp/z-programming/idolab/
+（参考記事）  【自宅でできるベスト教材】Z会プログラミング講座レゴを徹底解説【口コミ】  </description>
+    </item>
+    
+    <item>
+      <title>【伊藤おすすめ】プログラミング教材探しのお役立ちサイト</title>
+      <link>https://zetton110.github.io/seminer_20201205/post/%E4%BC%8A%E8%97%A4%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E6%95%99%E6%9D%90%E6%8E%A2%E3%81%97%E3%81%AE%E3%81%8A%E5%BD%B9%E7%AB%8B%E3%81%A1%E3%82%B5%E3%82%A4%E3%83%88/</link>
       <pubDate>Tue, 24 Nov 2020 13:19:20 +0900</pubDate>
       
-      <guid>https://zetton110.github.io/seminer_20201205/post/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E6%95%99%E6%9D%90%E6%8E%A2%E3%81%97%E3%81%AB%E4%BE%BF%E5%88%A9%E3%81%AA%E3%82%B5%E3%82%A4%E3%83%88/</guid>
+      <guid>https://zetton110.github.io/seminer_20201205/post/%E4%BC%8A%E8%97%A4%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E6%95%99%E6%9D%90%E6%8E%A2%E3%81%97%E3%81%AE%E3%81%8A%E5%BD%B9%E7%AB%8B%E3%81%A1%E3%82%B5%E3%82%A4%E3%83%88/</guid>
       <description>小学校を中心としたプログラミング教育ポータル - 教材情報   文部科学省・総務省・経済産業省と民間企業等が連携して設立した未来の学びコンソーシアムが運営しているポータルサイトで、
 小学校向けにプログラミングについての説明、教師等向けに実施事例や教材情報等を掲載している。
 （URL）https://miraino-manabi.jp/teaching
@@ -40,11 +80,11 @@ ICT toolbox   上述の「知りたい！プログラミングツール図鑑」
     </item>
     
     <item>
-      <title>最近の子はこういうのもあり？ゲーム要素強め系プログラミング教材</title>
-      <link>https://zetton110.github.io/seminer_20201205/post/%E6%9C%80%E8%BF%91%E3%81%AE%E5%AD%90%E3%81%AF%E3%81%93%E3%81%86%E3%81%84%E3%81%86%E3%81%AE%E3%82%82%E3%81%82%E3%82%8A%E3%82%B2%E3%83%BC%E3%83%A0%E8%A6%81%E7%B4%A0%E5%BC%B7%E3%82%81%E7%B3%BB%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E6%95%99%E6%9D%90/</link>
+      <title>【伊藤おすすめ】ゲーム要素強め系</title>
+      <link>https://zetton110.github.io/seminer_20201205/post/%E4%BC%8A%E8%97%A4%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%E3%82%B2%E3%83%BC%E3%83%A0%E8%A6%81%E7%B4%A0%E5%BC%B7%E3%82%81%E7%B3%BB/</link>
       <pubDate>Mon, 23 Nov 2020 16:23:47 +0900</pubDate>
       
-      <guid>https://zetton110.github.io/seminer_20201205/post/%E6%9C%80%E8%BF%91%E3%81%AE%E5%AD%90%E3%81%AF%E3%81%93%E3%81%86%E3%81%84%E3%81%86%E3%81%AE%E3%82%82%E3%81%82%E3%82%8A%E3%82%B2%E3%83%BC%E3%83%A0%E8%A6%81%E7%B4%A0%E5%BC%B7%E3%82%81%E7%B3%BB%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E6%95%99%E6%9D%90/</guid>
+      <guid>https://zetton110.github.io/seminer_20201205/post/%E4%BC%8A%E8%97%A4%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%E3%82%B2%E3%83%BC%E3%83%A0%E8%A6%81%E7%B4%A0%E5%BC%B7%E3%82%81%E7%B3%BB/</guid>
       <description>HackforPlay   基本的には2DのRPGゲーム進めていくのだが、このゲームには意図的にバグが仕込まれている。そのバグをプレイヤーがプログラミングで書き換えて直していくことで次にすすめるようになる、という一風変わったゲーム。プレイヤーは「ゲームの世界」と「ゲームを作っているプログラムの世界」の両方を攻略する必要がある。
 オリジナルのステージを作る機能があり、より本格的にプログラミングをすすめることもできる。
 プログラミング教材としては変化球だが、プログラミングに興味を持つきっかけには良さそう。
@@ -66,11 +106,11 @@ https://www.youtube.com/channel/UCd8votrQ5iue7-XofQjcfc
     </item>
     
     <item>
-      <title>学校教育でも使える!王道系プログラミング教材</title>
-      <link>https://zetton110.github.io/seminer_20201205/post/%E5%AD%A6%E6%A0%A1%E6%95%99%E8%82%B2%E3%81%A7%E3%82%82%E4%BD%BF%E3%81%88%E3%82%8B%E7%8E%8B%E9%81%93%E7%B3%BB%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E6%95%99%E6%9D%90/</link>
+      <title>【伊藤おすすめ】王道系プログラミング教材</title>
+      <link>https://zetton110.github.io/seminer_20201205/post/%E4%BC%8A%E8%97%A4%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%E7%8E%8B%E9%81%93%E7%B3%BB%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E6%95%99%E6%9D%90/</link>
       <pubDate>Mon, 23 Nov 2020 16:16:31 +0900</pubDate>
       
-      <guid>https://zetton110.github.io/seminer_20201205/post/%E5%AD%A6%E6%A0%A1%E6%95%99%E8%82%B2%E3%81%A7%E3%82%82%E4%BD%BF%E3%81%88%E3%82%8B%E7%8E%8B%E9%81%93%E7%B3%BB%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E6%95%99%E6%9D%90/</guid>
+      <guid>https://zetton110.github.io/seminer_20201205/post/%E4%BC%8A%E8%97%A4%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%E7%8E%8B%E9%81%93%E7%B3%BB%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E6%95%99%E6%9D%90/</guid>
       <description>Scratch （スクラッチ）   教育用プログラミング言語の超王道。
 子供向けプログラミング教育の元祖的な存在。現場でもっとも採用されているので、迷ったらこれをやっておけば間違いない。
 Scratchでカスタマイズできる機能を持ったプログラミングおもちゃも多いので、一度身につけると遊びの幅も広がる。
@@ -94,28 +134,11 @@ https://entry.line.me/
     </item>
     
     <item>
-      <title>触って学ぶ！おもちゃ・工作系プログラミング教材</title>
-      <link>https://zetton110.github.io/seminer_20201205/post/%E8%A7%A6%E3%81%A3%E3%81%A6%E5%AD%A6%E3%81%B6%E3%81%8A%E3%82%82%E3%81%A1%E3%82%83%E5%B7%A5%E4%BD%9C%E7%B3%BB%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E6%95%99%E6%9D%90/</link>
-      <pubDate>Mon, 23 Nov 2020 14:19:28 +0900</pubDate>
-      
-      <guid>https://zetton110.github.io/seminer_20201205/post/%E8%A7%A6%E3%81%A3%E3%81%A6%E5%AD%A6%E3%81%B6%E3%81%8A%E3%82%82%E3%81%A1%E3%82%83%E5%B7%A5%E4%BD%9C%E7%B3%BB%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E6%95%99%E6%9D%90/</guid>
-      <description> toio （トイオ）   伊藤が強くおすすめしたいプログラミングトイ。 子どもたちは遊びながらキューブ型のロボットにプログラミングで指示を出し色んな課題をクリアしていく。 toio本体とタイトルが別売りしており、タイトルを変えることで同じプラットフォームで色んな遊び方ができる。 EX)リズムゲーム、絵本、カーレーシング、相撲、ボードゲーム…
-また、プログラミングは物理的なカードを繋げて実施することもできるし、 パソコンを使って画面上のブロックを繋げて指示を出すこともできるので 子供の発達レベルに合わせプログラミングの形式を選択できる。
-対戦要素もあり、子供同士はもちろん、家族みんなで楽しめるコンテンツ。
-（公式サイト）
-https://toio.io/?utm_source=google&amp;amp;utm_medium=cpc&amp;amp;utm_campaign=S-shimei
-（公式動画チャンネル）
-https://www.youtube.com/channel/UCht-vdeFWgdFuDoQHIWmuZA
-参考記事  Viscuit（ビスケット）の使い方と簡単ゲームの作り方｜子どもでも分かるプログラミングアプリ 次世代ロボットトイ「toio（トイオ）」、2020年以降に発売される新タイトルを先行体験レポート！遊びと学びに満ちた新感覚のハイテクおもちゃ  参考動画  【激レア】このメンバーで遊びまくる / カジサック KAJISAC  toio™ 新タイトル　2019年秋　紹介動画｜toio™ New Titles 2019 Fall Trailer さあtoio™をはじめよう！：商品説明動画 ソニーのロボットトイ「toio」が楽しすぎる件 / STARTT.jp toio™ 「GoGo ロボットプログラミング　~ロジーボのひみつ~」紹介動画（バリューパック） toio™ 「トイオ・ドライブ」紹介動画 toio™ 「大魔王の美術館と怪盗団」ティザー動画  キュベット   イギリス発の木製ロボットで、幼児～小学生が対象。
-参考記事  プログラミング教育が学べるおもちゃ”キュベット”で遊んでみた！！ プログラミング脳を3歳から知育玩具　プリモトイズ キュベット  コード・A ・ピラー ツイスト   COZMO（コズモ）   Sphero（スフィロ）   カードでピピッと　はじめてのプログラミングカー   Embot（エムボット）   Studuino Liteであそぼう！はじめてのプログラミング工作   マイクロビット アドバンスセット MB-B001   </description>
-    </item>
-    
-    <item>
-      <title>プログラミング学習時に便利なWebサイト</title>
-      <link>https://zetton110.github.io/seminer_20201205/post/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E5%AD%A6%E7%BF%92%E6%99%82%E3%81%AB%E4%BE%BF%E5%88%A9%E3%81%AAweb%E3%82%B5%E3%82%A4%E3%83%88/</link>
+      <title>【伊藤おすすめ】プログラミング学習時に便利なWebサイト</title>
+      <link>https://zetton110.github.io/seminer_20201205/post/%E4%BC%8A%E8%97%A4%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E5%AD%A6%E7%BF%92%E6%99%82%E3%81%AB%E4%BE%BF%E5%88%A9%E3%81%AAweb%E3%82%B5%E3%82%A4%E3%83%88/</link>
       <pubDate>Sat, 21 Nov 2020 15:58:57 +0900</pubDate>
       
-      <guid>https://zetton110.github.io/seminer_20201205/post/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E5%AD%A6%E7%BF%92%E6%99%82%E3%81%AB%E4%BE%BF%E5%88%A9%E3%81%AAweb%E3%82%B5%E3%82%A4%E3%83%88/</guid>
+      <guid>https://zetton110.github.io/seminer_20201205/post/%E4%BC%8A%E8%97%A4%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E5%AD%A6%E7%BF%92%E6%99%82%E3%81%AB%E4%BE%BF%E5%88%A9%E3%81%AAweb%E3%82%B5%E3%82%A4%E3%83%88/</guid>
       <description>ドットインストール   １本3分弱の動画でプログラミングを学習できるサイト。新人エンジニア御用達。 プログラミング初心者は手の動かし方がわからないことが多いので、一番最初は本を買うよりも動画で学ぶとよい。 動画は短く簡潔にまとまっているので、スキマ時間で取り組めるため忙しいお母さんや先生にもおすすめ。 2020年11月時点で441のレッスンを6,624本の動画をUPされており、驚異的なコンテンツ量を誇る。 一部有料コンテンツもあるが、無料コンテンツがほとんどなので財布にもやさしい。
 URL：https://dotinstall.com/
  オススメ授業「Scratch 3.0入門」- ドットインストール   無料コンテンツとして公開中。 19のレッスンでScratchを使ったゲーム開発を学ぶことができる。 いままでドットインストールのScratchの授業は対応しているバージョンが古く使えない状態だったが 2020/11/18に刷新され最新版のScratch 3.0版として刷新された。 Scratchを学ぶ一歩目としてはこの上なく良教材なのでぜひ活用すべし。  URL：https://dotinstall.com/lessons/basic_scratch_v4
@@ -124,15 +147,16 @@ Udemy （ユーデミー）   オンライン学習サイト。 コンテンツ�
 このサイトは定期的にセールをやっており、授業を購入するときは絶対にそのタイミングにすること。普段１万以上する講義がセール時は1000円になったりする。セールは１ヶ月に１度は必ず実施されるので定期的に確認しよう。
 URL：https://www.udemy.com/
  オススメ授業「Scratch 3で、親子で学べるゲームプログラミング」- udemy   プログラミングについて書籍も出版している幻影機エンジニアによるScratch講座。 本講義を通じ、Scratchを用いて５つの作品をつくっていく。 作る作品は、劇、楽器、計算ゲーム、シューティングゲームと様々で、 子どもたちが興味を持ちやすいように工夫されているので、 その名の通り親子で取り組むにもおすすめ。  URL：https://www.udemy.com/course/scratch-basic/
-Why!?プログラミング   URL：https://www.nhk.or.jp/school/sougou/programming/</description>
+Why!?プログラミング   2016年3月からNHK Eテレで放送されている、小学生〜中学生向けのプログラミング講座（10分）。お笑い芸人：厚切ジェイソンと愉快な仲間たちがScratchを使って面白おかしく問題解決していく番組。バラエティ要素が全面に出ているが、内容はきっちりしっかりしており、肩の力を抜きつつ学習できる良教材。国際評価も高く、2017年の国際エミー賞にノミネートされた。
+URL：http://www.nhk.or.jp/sougou/programming/</description>
     </item>
     
     <item>
-      <title>未就学児もできる？難易度低めのプログラミング教材</title>
-      <link>https://zetton110.github.io/seminer_20201205/post/%E6%9C%AA%E5%B0%B1%E5%AD%A6%E5%85%90%E3%82%82%E3%81%A7%E3%81%8D%E3%82%8B%E9%9B%A3%E6%98%93%E5%BA%A6%E4%BD%8E%E3%82%81%E3%81%AE%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E6%95%99%E6%9D%90/</link>
+      <title>【伊藤おすすめ】未就学児もできる？難易度低め系</title>
+      <link>https://zetton110.github.io/seminer_20201205/post/%E4%BC%8A%E8%97%A4%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%E6%9C%AA%E5%B0%B1%E5%AD%A6%E5%85%90%E3%82%82%E3%81%A7%E3%81%8D%E3%82%8B%E9%9B%A3%E6%98%93%E5%BA%A6%E4%BD%8E%E3%82%81%E7%B3%BB/</link>
       <pubDate>Sat, 21 Nov 2020 15:58:57 +0900</pubDate>
       
-      <guid>https://zetton110.github.io/seminer_20201205/post/%E6%9C%AA%E5%B0%B1%E5%AD%A6%E5%85%90%E3%82%82%E3%81%A7%E3%81%8D%E3%82%8B%E9%9B%A3%E6%98%93%E5%BA%A6%E4%BD%8E%E3%82%81%E3%81%AE%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E6%95%99%E6%9D%90/</guid>
+      <guid>https://zetton110.github.io/seminer_20201205/post/%E4%BC%8A%E8%97%A4%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%E6%9C%AA%E5%B0%B1%E5%AD%A6%E5%85%90%E3%82%82%E3%81%A7%E3%81%8D%E3%82%8B%E9%9B%A3%E6%98%93%E5%BA%A6%E4%BD%8E%E3%82%81%E7%B3%BB/</guid>
       <description>Viscuit （ビスケット）   使い方がとても簡単／直感的で、文字が読めない4歳〜でも扱えるというのがウリ。
 自分でえがいた絵にプログラミングで動きをつけられる。 開発者いわく、『ビスケットはプログラミングの入門言語ではなく、「コンピュータってこういうものなんだ」と直感的に知ってもらうためのものです』とのこと。
  対象年齢：4歳〜
@@ -150,23 +174,15 @@ https://www.scratchjr.org/</description>
     </item>
     
     <item>
-      <title>Society 5.0</title>
-      <link>https://zetton110.github.io/seminer_20201205/post/society-5.0/</link>
-      <pubDate>Wed, 18 Nov 2020 00:51:18 +0900</pubDate>
-      
-      <guid>https://zetton110.github.io/seminer_20201205/post/society-5.0/</guid>
-      <description>   公式情報  【内閣府公式】 Society 5.0 【経団連公式Youtube】「20XX in Society 5.0～デジタルで創る、私たちの未来～」  解説記事など  【初心者向け】Society 5.0を徹底解説！定義・技術・事例まで 「Society 5.0」とは？私達の暮らしや仕事はどう変わるのか？ Society 5.0の実現を通じたSDGsの達成に総力を挙げて取り組む KeidanrenSDGs  </description>
-    </item>
-    
-    <item>
-      <title>About</title>
+      <title>about</title>
       <link>https://zetton110.github.io/seminer_20201205/about/</link>
       <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
       
       <guid>https://zetton110.github.io/seminer_20201205/about/</guid>
-      <description> セミナー資料置き場。
-３度の飯より、プログラミング。
-本セミナーについて  セミナー概要 PDF    伊藤 浩平  30 さい ITエンジニア 島根県出雲市出身 元メーカー系SIier（現在：工場務め） Uターン組 スキル：Javascript / Java / Ruby / Elixir / C# / VBA / VB.Net 新米パパ  </description>
+      <description> 2020/12/05(土) @オトナキチコーヒー
+&amp;ldquo;⼩学校でプログラミング教育が必修化！先生、親御さん、準備できてますか？講座&amp;rdquo; のセミナー資料及び補足資料を公開しています。 適宜ご活用ください。
+★セミナー募集URL：https://maruco.co.jp/otonakichicoffee/programing/
+■本講義で使用した資料  セミナー資料 PDF  ■セミナー概要  セミナー概要 PDF  ■講師   伊藤 浩平  30 さい ITエンジニア 島根県出雲市出身 元メーカー系SIier（現在：県内製造メーカーにて社内SE） Uターン組 スキル：Javascript / Java / Ruby / Elixir / C# / VBA / VB.Net 新米パパ  </description>
     </item>
     
   </channel>
